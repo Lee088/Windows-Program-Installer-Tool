@@ -1,0 +1,2 @@
+# Windows-Program-Installer-Tool
+This batch file allows you to download and run an executable file from a specified URL. To use it, you will need to provide the URL of the file, the name of the executable, and a silent switch for running the file. The script will then download the file and run it with the specified switch. Note that you will need to replace "INSTALL_DIRECTORY" in the script with the path of the folder you want to install from.
